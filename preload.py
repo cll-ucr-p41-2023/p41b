@@ -384,7 +384,7 @@ class MaterialManager:
 
 # Add material
 material_manager = MaterialManager()
-material_manager.add()
+# material_manager.add()
 
 # Grading functions
 
